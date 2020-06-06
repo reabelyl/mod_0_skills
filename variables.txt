@@ -1,0 +1,16 @@
+food = "Bacon"
+is_delicious = true
+
+food = "Canadian Ham"
+
+num2 = 10
+
+num7 = 23
+
+quotient = num7 / num2
+
+songs = ["Let it Rain On Me", "Just Dance", "Dancing in The Dark", "Poker Face"]
+
+songs.shift
+
+food.length
